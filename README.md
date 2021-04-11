@@ -1,3 +1,3 @@
 # Travellab
 
-Flutter Application 
+Application fot travellers and refugees. 
